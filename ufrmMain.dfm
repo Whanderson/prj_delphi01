@@ -13,6 +13,13 @@ object frmMain: TfrmMain
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Label1: TLabel
+    Left = 472
+    Top = 136
+    Width = 31
+    Height = 13
+    Caption = 'Label1'
+  end
   object Button1: TButton
     Left = 296
     Top = 104
