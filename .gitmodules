@@ -1,0 +1,3 @@
+[submodule "prjdelphi_lib"]
+	path = prjdelphi_lib
+	url = https://github.com/Whanderson/prjdelphi_lib.git
